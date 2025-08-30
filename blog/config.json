@@ -1,0 +1,12 @@
+{
+  "site": {
+    "title": "Ktz-ali的博客",
+    "description": "由单个仓库驱动的博客"
+  },
+  "styling": {
+    "backgroundColor": "#f8f9fa",
+    "textColor": "#212529",
+    "accentColor": "#0d6efd",
+    "backgroundImageUrl": ""
+  }
+}
